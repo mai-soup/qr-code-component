@@ -2,7 +2,7 @@ const linkClasses = "underline hover:text-black transition-all";
 
 const AttributionContainer = () => {
   return (
-    <div className="flex justify-center items-center text-xl text-dark-blue mb-6 text-center">
+    <div className="flex justify-center items-center text-xl text-dark-blue mb-3 md:mb-6 text-center">
       <p>
         Challenge by{" "}
         <a
