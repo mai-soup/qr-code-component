@@ -3,7 +3,7 @@ import QrContainer from "./QrContainer";
 
 function App() {
   return (
-    <div className="flex flex-col h-full bg-light-grey">
+    <div className="flex flex-col bg-light-grey h-full">
       <QrContainer />
       <AttributionContainer />
     </div>
