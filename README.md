@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-I discovered that, on mobile browsers, 100vh corresponds to the window height if the navigation bar is hidden - meaning users have to scroll down until it is hidden to see the very bottom of the page at the moment. Trying to find a good solution for this.
+~~I discovered that, on mobile browsers, 100vh corresponds to the window height if the navigation bar is hidden - meaning users have to scroll down until it is hidden to see the very bottom of the page at the moment. Trying to find a good solution for this.~~ Edit: this has now been fixed by using dvh instead of vh!
 
 ## Author
 
